@@ -1,6 +1,6 @@
 ReadMe
 
-This project asks the user for an image, input as the images file path on the user's computer.
+This Java project asks the user for an image, input as the images file path on the user's computer.
 The program will then as the user to input the number of the filter which will be used to filter the image.
 The user is then asked to input the file path with which they would like to save the image.
 The filtered image will then be saved in this location on the user's computer and will be able to accessed in their files.
