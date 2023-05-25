@@ -6,8 +6,8 @@ The filtered image will then be saved in this location on the user's computer wh
 
 **How to run**  
 Download SRC directory locally.  
-Open program using command prompt  
-Follow instructions once program is running
+Navigate to src/ie/gmit/dip in command line    
+Use command javac Runner.java  to run application
 
 
 **References**  
